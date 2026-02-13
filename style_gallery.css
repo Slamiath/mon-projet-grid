@@ -48,7 +48,7 @@ body {
 
 .box img:hover{
     cursor: pointer;
-    transform: scale(1.1); /* Zoom léger au survol*/
+    transform: scale(1.1); 
 
 }
 .un {
@@ -111,5 +111,6 @@ body {
 .box:hover .overlay{
     transform: translateY(0);
 }
+
 
 
